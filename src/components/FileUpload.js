@@ -41,7 +41,7 @@ const FileUpload = () => {
 		}).then((regText) => {
 			console.log(regText.data.text);
 			setText(regText.data.text);
-			GptProgress(regText);
+			// GptProgress(regText);
 		});
 		// const {
 		// 	data: { text },
