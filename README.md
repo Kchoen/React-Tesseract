@@ -10,11 +10,12 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
--If the port is used use netstat to locate the pid
+
+-   If the port is used use netstat to locate the pid
 
 > netstat -ano | findstr $port
 
--Kill the process
+-   Kill the process
 
 > taskkill /PID $pid /F
 
