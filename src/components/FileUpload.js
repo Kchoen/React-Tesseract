@@ -75,7 +75,7 @@ const FileUpload = () => {
 			</form> */}
 			<div className="row mt-5">
 				<div className="col-md-6 m-auto">
-					{imgURL ? (
+					{imgURL === 100 ? (
 						<img
 							style={{ width: "100%" }}
 							src={imgURL}
@@ -87,9 +87,10 @@ const FileUpload = () => {
 				</div>
 			</div>
 			<div className="row mt-5">
-				<div className="col-md-6">
+				<div className="col-md-6 m-auto">
 					{text ? (
 						<textarea
+							rows="20"
 							className="form-control"
 							style={{
 								width: "100%",
