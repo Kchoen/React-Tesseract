@@ -90,7 +90,7 @@ const FileUpload = () => {
 				<div className="col-md-6 m-auto">
 					{text ? (
 						<textarea
-							rows="20"
+							rows="18"
 							className="form-control"
 							style={{
 								width: "100%",
