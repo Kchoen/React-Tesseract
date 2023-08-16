@@ -85,6 +85,8 @@ const FileUpload = () => {
 
 					<></>
 				</div>
+			</div>
+			<div className="row mt-5">
 				<div className="col-md-6">
 					{text ? (
 						<textarea
