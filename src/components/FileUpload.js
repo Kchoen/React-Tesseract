@@ -75,7 +75,7 @@ const FileUpload = () => {
 			</form> */}
 			<div className="row mt-5">
 				<div className="col-md-6 m-auto">
-					{imgURL === 100 ? (
+					{imgURL ? (
 						<img
 							style={{ width: "100%" }}
 							src={imgURL}
