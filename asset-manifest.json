@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Tesseract/static/css/main.073c9b0a.css",
+    "main.js": "/React-Tesseract/static/js/main.6aa63708.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-Tesseract/static/js/787.28cb0dcd.chunk.js",
+    "service-worker.js": "/React-Tesseract/service-worker.js",
+    "static/media/logo.svg": "/React-Tesseract/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Tesseract/index.html",
+    "main.073c9b0a.css.map": "/React-Tesseract/static/css/main.073c9b0a.css.map",
+    "main.6aa63708.js.map": "/React-Tesseract/static/js/main.6aa63708.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-Tesseract/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6aa63708.js"
+  ]
+}
