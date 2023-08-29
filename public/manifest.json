@@ -3,8 +3,8 @@
 	"name": "口袋名單",
 	"icons": [
 		{
-			"src": "ocr.png",
-			"sizes": "144x144",
+			"src": "food-app.png",
+			"sizes": "512x512",
 			"type": "image/png",
 			"purpose": "any"
 		}
