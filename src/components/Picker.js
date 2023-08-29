@@ -18,6 +18,7 @@ const RestaurantPicker = () => {
 		const storedRestaurants = JSON.parse(
 			localStorage.getItem("restaurants")
 		);
+		if (storedRestaurants == null) return;
 		setRestaurants(storedRestaurants);
 	}
 
