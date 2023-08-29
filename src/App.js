@@ -5,7 +5,7 @@ import RestaurantPicker from "./components/Picker";
 function App() {
 	return (
 		<div className="container mt-4">
-			<RestaurantPicker />
+			<FileUpload />
 		</div>
 	);
 }

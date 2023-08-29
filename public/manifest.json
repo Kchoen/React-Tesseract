@@ -1,10 +1,10 @@
 {
-	"short_name": "口袋名單",
-	"name": "口袋名單",
+	"short_name": "影像辨識",
+	"name": "OCR影像辨識",
 	"icons": [
 		{
-			"src": "food-app.png",
-			"sizes": "512x512",
+			"src": "ocr.png",
+			"sizes": "144x144",
 			"type": "image/png",
 			"purpose": "any"
 		}
