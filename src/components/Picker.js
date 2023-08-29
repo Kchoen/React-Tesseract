@@ -82,7 +82,6 @@ const RestaurantPicker = () => {
 
 						<Button
 							style={{
-								verticalAlign: "middle",
 								marginLeft: "auto",
 								float: "right",
 							}}
